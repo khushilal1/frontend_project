@@ -2,7 +2,7 @@
   .navigation {
     border-radius: 3px solid red;
     height: 600px;
-    background-image: url("/image/Mountain.jpg");
+    background-image: url("/frontend_project/image/Mountain.jpg");
     background-repeat: no-repeat;
     width: 12000px;
     display: flex;

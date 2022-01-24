@@ -119,15 +119,42 @@ gap: 10px;
   list-style-type: none;
 }
 
+@media (min-width:0px){
+
+  .FOOTER {
+    height: 40%;
+    background-color: rgb(29, 29, 109);
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+
+  #facebook{background-color: rgb(75, 75, 224);}
+  #twitter{background-color:rgb(64, 242, 248);}
+  #google{background-color: red;}
+  
+  .face{gap: 30px;
+    float: right;
+    margin-right: 30px;
+    font-size: 2em;
+    color: rgb(7, 212, 24);
+    }}
+
+    
 .contact{
   
   display:grid;
   float: center;
   margin-left:50% ;
 list-style-type: none;
+color: white;
 }
 
-.tact{font-size: 2em;}
+.tact{font-size: 2em;
+color: white;}
+.p{color: white;}
+.copy{color: white;}
 
 .one{border: 5px solid rgb(243, 215, 215);
   border-radius: 5px;
@@ -152,25 +179,3 @@ p{font-family: cursive;
 font-size: 1em;
 }
 }
-
-@media (min-width:0px){
-
-  .FOOTER {
-    height: 40%;
-    background-color: rgb(29, 29, 109);
-    margin-top: 50px;
-    margin-bottom: 20px;
-    margin-right: 20px;
-    margin-left: 20px;
-  }
-
-  #facebook{background-color: rgb(75, 75, 224);}
-  #twitter{background-color:rgb(64, 242, 248);}
-  #google{background-color: red;}
-  
-  .face{gap: 30px;
-    float: right;
-    margin-right: 30px;
-    font-size: 2em;
-    color: rgb(7, 212, 24);
-    }}

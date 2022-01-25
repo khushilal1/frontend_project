@@ -1,13 +1,10 @@
 @media (min-width: 0px) {
   .navigation {
-    border-radius: 3px solid rgb(165, 13, 13);
-    height: 450px;
+    height: 600px;
     background-image: url("/frontend_project/image/Mountain.jpg");
     background-repeat: no-repeat;
     display: flex;
-    width: 100%;
-    margin-top: 0%;
-    border-radius: 10px;
+    width: 2200px;
     font-size: 2em;
   }
 }
@@ -33,7 +30,6 @@ nav li{display: flex;
 font-size: 1em;
 position: relative
 ;
-margin-left: -13%;
 gap: -5%;
 }
 
@@ -56,8 +52,8 @@ H6 {
   border-radius: 20px;
   background-color: rgb(67, 31, 197);
   box-shadow:5PX 5PX 5PX rgb(132, 193, 196);
-  height: 200px;
-  margin-top: 80px;
+  height: 400px;
+  margin-top: 150px;
   border-radius: 10px;
   width: 61%;
   background-color: white;
@@ -65,7 +61,7 @@ H6 {
 }
 
 
-.first img{height: 100%;
+.first img{height: 400px;
 width: 300px;
 border-radius: 5px;
 }
@@ -77,7 +73,7 @@ border-radius: 5px;
 
 .paragraph{margin-left: 300px;
 font-size: 2em;
-margin-top:-150px;
+margin-top:-300px;
 }
 .icon i {
   margin-top: -10px;
@@ -97,7 +93,7 @@ margin-left: 300PX;
   box-shadow:5PX 5PX 5PX rgb(132, 193, 196);
 
   border-radius: 20px;
-  height: 200px;
+  height: 400px;
   margin-top: 40px;
   border-radius: 10px;
   width: 61%;
@@ -105,7 +101,7 @@ margin-left: 300PX;
   background-color: white;
   margin-left: 50px;
 }
-.second img{height: 100%;
+.second img{height: 400px;
   width: 300px;
   border-radius: 5px;
   }
@@ -113,7 +109,7 @@ margin-left: 300PX;
   box-shadow:5PX 5PX 5PX rgb(132, 193, 196);
 
   border-radius: 20px;
-  height: 200px;
+  height: 400px;
   margin-top: 40px;
   border-radius: 10px;
 
@@ -121,7 +117,7 @@ margin-left: 300PX;
   background-color: white;
   margin-left: 50px;
 }
-.three img{height: 100%;
+.third img{height: 400px;
   width: 300px;
   border-radius: 5px;
   }
@@ -132,11 +128,11 @@ margin-left: 300PX;
     width: 40%; 
     float: right;
     /* margin-right: 5%; */
-    margin-top: 20px;
+    margin-top: 100px;
     text-align: center;
     font-size: 2em;
     margin-bottom: 5px;
-    margin-left: -60px;
+    
   }
 
   .image {
@@ -202,11 +198,9 @@ gap: 10px;
   .FOOTER {
     height: 200px;
     background-color: rgb(29, 29, 109);
+    width: 2000px;
     margin-top: 400px;
-    margin-right: 20px;
-    margin-left: 20px;
-    border-radius: 20px;
-    width: 100%;
+
   }
 
   #facebook{background-color: rgb(75, 75, 224);}

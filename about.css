@@ -106,7 +106,7 @@ color: blue;}
 
 
 .discover{
-    border: 3px solid rgb(55, 0, 255);
+    border: 3px solid rgb(212, 211, 216);
     height: 400px;
     width: 100%;
     display: flex;
@@ -115,7 +115,7 @@ color: blue;}
     background-color: rgb(206, 206, 206);
 }
 
-.nimage{border: 4px solid black;
+.nimage{border: 4px solid rgb(192, 177, 177);
 width:25% ;
 margin-left: 10%;
 margin-top: 40px;

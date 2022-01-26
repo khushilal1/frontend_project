@@ -55,6 +55,8 @@ H6 {
   height: 400px;
   margin-top: 150px;
   border-radius: 10px;
+  border-top: 1px solid  rgb(132, 193, 196);
+
   width: 61%;
   background-color: white;
   margin-left: 50px;
@@ -91,6 +93,7 @@ margin-left: 300PX;
 
 .second {
   box-shadow:5PX 5PX 5PX rgb(132, 193, 196);
+  border-top: 1px solid  rgb(132, 193, 196);
 
   border-radius: 20px;
   height: 400px;
@@ -106,8 +109,8 @@ margin-left: 300PX;
   border-radius: 5px;
   }
 .third {
-  box-shadow:5PX 5PX 5PX rgb(132, 193, 196);
-
+  box-shadow:5PX 5PX 5PX  rgb(132, 193, 196);
+border-top: 1px solid  rgb(132, 193, 196);
   border-radius: 20px;
   height: 400px;
   margin-top: 40px;

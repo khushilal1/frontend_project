@@ -120,16 +120,16 @@ color: blue;}
 
 
 .discover{
-    border: 3px solid rgb(212, 211, 216);
     height: 600px;
     width: 2000PX;
+    background-color: rgb(234, 241, 234);
     display: flex;
     margin-top:20% ;
     opacity: 0.5;
-box-shadow: 5px 5px 5px rgb(199, 164, 26);
-
 
 }
+
+
 .stk{
   height: 5px;
   width: 410px;

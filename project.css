@@ -71,7 +71,11 @@ border-radius: 5px;
   text-align: left;
 
 }
-
+.enjoy{display: inline;
+color: white;
+font-family: cursive;
+font-size: 1em;
+}
 
 .paragraph{margin-left: 300px;
 font-size: 2em;
